@@ -1,2 +1,2 @@
 # Psychic-Game
-Homework Assignment #3 - Challenging Option
+Homework Assignment #3 - Easier Option
